@@ -1,0 +1,4 @@
+caption always
+
+caption string "PRESENTATION MODE %2n %t - %C%a <%l> %W"
+defscrollback 2048

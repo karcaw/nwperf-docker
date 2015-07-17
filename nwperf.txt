@@ -1,0 +1,4 @@
+[karcaw/nwperf] -> [karcaw/nwperf-slurm]
+[karcaw/nwperf] -> [nwperf-auth]
+[nwperf-auth] -> [nwperf-wsgi]
+ [karcaw/nwperf-slurm] -> [nwperf-slurm-auth]
